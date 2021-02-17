@@ -1,7 +1,6 @@
 title: "Oligo 2021"
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
-color_scheme: foo
 
 # Enable or disable heading anchors
 heading_anchors: true
@@ -26,3 +25,5 @@ back_to_top: true
 back_to_top_text: "Back to top"
 
 footer_content: "Copyright &copy; 2020-2021 Maastricht University."
+
+color_scheme: foo
