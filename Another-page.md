@@ -1,10 +1,10 @@
 ---
-title: Test
+title: Call for Papers
 has_children: true
 nav_order: 2
 ---
 
-# Welcome
+# Call for Papers
 
 Welcome to the virtual Oligo Workshop 2021 at Maastricht University!
 
