@@ -12,3 +12,13 @@ html {
     -webkit-font-smoothing: antialiased;
     text-shadow: rgba(0, 0, 0, .01) 0 0 1px;
   }
+
+$body-background-color: $white !default;
+$sidebar-color: $white !default;
+
+$body-text-color: $grey-dk-100 !default;
+$body-heading-color: $grey-dk-300 !default;
+$search-result-preview-color: $grey-dk-000 !default;
+$nav-child-link-color: #E84E10 !default;
+$link-color: #00A2DB !default;
+$btn-primary-color: #00A2DB !default;
