@@ -8,7 +8,7 @@ Registration fees for the Oligo 2021 online event:
 - Academics: EUR 120
 - PhD Students: EUR 60
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mt-4 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .btn-outline .fs-5 .mt-4 .mb-4 .mb-md-0 }
+[Register now](#register){: .btn .btn-primary .fs-5 .mt-4 .mb-4 .mb-md-0 .mr-2 } [View Past Conferences](#past-conferences){: .btn .fs-5 .mt-4 .mb-4 .mb-md-0 }
 
 We look forward to welcome you all virtually in Maastricht in June 2021.
 
