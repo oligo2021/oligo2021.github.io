@@ -1,3 +1,11 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "The Maastricht University School of Business and Economics is proud to host the Oligo Workshop 2021."
+permalink: /
+---
+
 ![Maastricht University](/img/header.jpg)
 
 # Welcome to Oligo 2021 Online
@@ -13,30 +21,6 @@ Registration fees for the Oligo 2021 online event:
 [Register now](#register){: .btn .btn-primary .fs-5 .mt-4 .mb-4 .mb-md-0 .mr-2 } [View Past Conferences](#past-conferences){: .btn .fs-5 .mt-4 .mb-4 .mb-md-0 }
 
 We look forward to welcome you all virtually in Maastricht in June 2021.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
