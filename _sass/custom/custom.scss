@@ -13,8 +13,7 @@ html {
     text-shadow: rgba(0, 0, 0, .01) 0 0 1px;
   }
 
-$body-background-color: $white !default;
-$sidebar-color: $white !default;
-$nav-child-link-color: #E84E10 !default;
-$link-color: #00A2DB !default;
-$btn-primary-color: #00A2DB !default;
+h1,
+.text-alpha {
+  font-weight: 600;
+}
