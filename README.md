@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Oligo 2021
 
-You can use the [editor on GitHub](https://github.com/pmarsceill/test-jtd/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Dear all,
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Due to the Corona crisis we are currently facing, Oligo 2021 will be held online. More details will be provided as soon as possible. All can [register](/register) via this website:
+
+Registration fees for the Oligo 2021 online event:
+- Academics: EUR 120
+- PhD Students: EUR 60
+
+We look forward to welcome you all virtually in Maastricht in June 2021.
 
 ### Markdown
 
