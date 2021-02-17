@@ -1,44 +1,43 @@
 # Welcome to Oligo 2021 Online
 {: .fs-9 }
 
-Dear all, due to the Corona crisis we are currently facing, Oligo 2021 will be held online. More details will be provided as soon as possible. All can [register](/register) via this website:
+The Maastricht University School of Business and Economics is proud to host the Oligo Workshop 2021. The keynote lecture will be given by David P. Myatt, London Business School.
 {: .fs-6 .fw-300 }
 
-Registration fees for the Oligo 2021 online event:
-- Academics: EUR 120
-- PhD Students: EUR 60
+### Topics
 
-[Register now](#register){: .btn .btn-primary .fs-5 .mt-4 .mb-4 .mb-md-0 .mr-2 } [View Past Conferences](#past-conferences){: .btn .fs-5 .mt-4 .mb-4 .mb-md-0 }
+Submissions from all areas related to microeconomic theory are welcome, including (but not limited to):
 
-We look forward to welcome you all virtually in Maastricht in June 2021.
+- Auctions
+- Collusion, cartels and mergers
+- Contests and tournaments
+- Dynamic models and timing
+- Economics of blockchain
+- Environmental industrial economics
+- Imperfect competition
+- Information economics
+- Market design
+- Networks
+- Platform competition and two-sided markets
+- Price competition
+- Procurement
+- Product differentiation
+- Quantity competition
+- R&D
+- Spatial competition.
 
-### Markdown
+The workshop has a tradition for exclusively plenary sessions with each presentation being followed by a brief discussion. Participants are therefore expected to discuss one paper in their field of interest.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Submission
 
-```markdown
-Syntax highlighted code block
+Interested researchers and Ph.D. students are cordially invited to submit papers to be considered for the programme. Papers should be submitted electronically to [oligoworkshop2021@gmail.com](mailto:) by February 15, 2021. Authors of accepted papers will be notified by mid February.
 
-# Header 1
-## Header 2
-### Header 3
+### PDF Download
 
-- Bulleted
-- List
+You can download the PDF file of our Call for Papers below:
 
-1. Numbered
-2. List
+[Download Call for Papers](Oligo2021_CallForPapers.pdf){: .btn .btn-primary .fs-5 .mt-4 .mb-4 .mb-md-0 .mr-2 }
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pmarsceill/test-jtd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
