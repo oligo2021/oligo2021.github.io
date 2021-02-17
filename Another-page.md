@@ -4,9 +4,8 @@ has_children: true
 nav_order: 2
 ---
 
-# Another page
+# Welcome
 
-Test this
-
+Welcome to the virtual Oligo Workshop 2021 at Maastricht University!
 
 blah
