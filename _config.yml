@@ -1,7 +1,7 @@
 title: "Oligo 2021"
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
-color_scheme: um
+color_scheme: foo
 
 # Enable or disable heading anchors
 heading_anchors: true
