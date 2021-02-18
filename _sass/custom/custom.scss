@@ -44,11 +44,11 @@ background-image: none;
     box-shadow:none;
 }
 
-.site-button .icon {
-    color: $secondary-color;
+.site-button > .icon {
+    color: $secondary-color !important;
     
     &:hover {
-    color: white;
+    color: white !important;
     }
 }
 
