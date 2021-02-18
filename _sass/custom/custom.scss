@@ -20,9 +20,13 @@ h1,
 }
 
 .site-title:hover, .nav-list-link:hover  {
-background-image: none
+background-image: none;
 }
 
 .site-header {
     border-bottom: 1px solid #eeebee;
+}
+
+.search {
+    padding: 1rem .5rem;
 }
