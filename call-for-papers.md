@@ -11,8 +11,6 @@ The Maastricht University School of Business and Economics is proud to host the 
 
 ### Topics
 
-Submissions from all areas related to microeconomic theory are welcome, including (but not limited to):
-
 - Auctions
 - Collusion, cartels and mergers
 - Contests and tournaments
