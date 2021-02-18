@@ -4,14 +4,19 @@ nav_order: 2
 has_toc: true
 ---
 
-1. TOC
-{:toc}
-
 # Call for Papers
 {: .fs-9 }
 
 The Maastricht University School of Business and Economics is proud to host the Oligo Workshop 2021. The keynote lecture will be given by [David P. Myatt](https://www.london.edu/faculty-and-research/faculty-profiles/m/myatt-dp), London Business School.
 {: .fs-6 .fw-300 }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+{:toc}
+</details>
 
 ### Topics
 
