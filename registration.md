@@ -13,5 +13,5 @@ Registration is now open. Please use the registration link below.
 
 ### Pricing
 
-| Professors   | 140 EUR |
-| Students     | 50 EUR  |
+| **Professors**   | 140 EUR |
+| **Students**     | 50 EUR  |
