@@ -6,7 +6,10 @@ description: "The Maastricht University School of Business and Economics is prou
 permalink: /
 ---
 
-![Maastricht University](/img/header.jpg)
+<picture>
+  <source srcset="/img/header.webp" type="image/webp">
+  <img src="/img/header.jpg" alt="Maastricht University">
+</picture>
 
 # Welcome to Oligo 2021 Online
 {: .fs-9 }
