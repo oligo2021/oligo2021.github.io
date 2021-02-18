@@ -1,5 +1,6 @@
 ---
 title: Previous Workshops
+description: The previous workshops of the Oligo conference
 nav_order: 4
 has_toc: true
 ---
