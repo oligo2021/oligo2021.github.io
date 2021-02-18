@@ -8,7 +8,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Visit Maastricht University":
-    - "//https://maastrichtuniversity.nl"
+    - "maastrichtuniversity.nl"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
