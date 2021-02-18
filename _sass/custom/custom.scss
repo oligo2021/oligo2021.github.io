@@ -4,7 +4,6 @@ $primary-color: #00A2DB;
 $secondary-color: #ED6B1A;
 
 html {
-    font-family: 'Commissioner', sans-serif;
     font-size: 100%;
     -webkit-text-size-adjust: 100%;
     font-variant-ligatures: none;
@@ -26,21 +25,11 @@ h1,
 }
 
 .site-title:hover, .nav-list-link:hover  {
-background-image: none;
+    background-image: none;
 }
 
 .site-header {
     border-bottom: 1px solid #eeebee;
-}
-
-.site-button:hover {
-    background: $secondary-color;
-    color: white;
-}
-
-.site-button:hover {
-    background: $secondary-color;
-    color: white;
 }
 
 .btn, .btn-primary, .btn-secondary {
@@ -49,6 +38,11 @@ background-image: none;
 
 .site-button {
     color: $secondary-color !important;
+    
+    &:hover {
+        background: $secondary-color;
+        color: white;
+    }
 }
 
 .site-button > .icon {
