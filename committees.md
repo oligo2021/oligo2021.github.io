@@ -4,6 +4,7 @@ nav_order: 3
 has_toc: true
 ---
 
+1. TOC
 {:toc}
 
 # Committees
