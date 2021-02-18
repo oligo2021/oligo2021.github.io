@@ -49,4 +49,7 @@ h1,
     color: white !important;
 }
 
-
+.nav-list .nav-list-item .nav-list-link:hover,
+.nav-list .nav-list-item .nav-list-link.active {
+background: #f2faff;
+}
