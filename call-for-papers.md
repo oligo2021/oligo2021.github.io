@@ -41,7 +41,7 @@ Interested researchers and Ph.D. students are cordially invited to submit papers
 
 You can download the PDF file of our Call for Papers below:
 
-[Download Call for Papers](Oligo2021_CallForPapers.pdf){: .btn .btn-primary .fs-5 .mt-4 .mb-4 .mb-md-0 .mr-2 }
+[Download Call for Papers](files/Oligo2021_CallForPapers.pdf){: .btn .btn-primary .fs-5 .mt-4 .mb-4 .mb-md-0 .mr-2 }
 
 
 ### Support or Contact
