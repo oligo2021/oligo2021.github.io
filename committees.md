@@ -4,11 +4,16 @@ nav_order: 3
 has_toc: true
 ---
 
-1. TOC
-{:toc}
-
 # Committees
 {: .fs-9 }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+{:toc}
+</details>
 
 ### Programme Committee
 
