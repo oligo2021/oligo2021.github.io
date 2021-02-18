@@ -43,11 +43,13 @@ h1,
         background: $secondary-color;
         color: white !important;
     }
+    
+    .icon {
+        $secondary-color !important;
+    }
 }
 
 .site-button > .icon {
-    color: $secondary-color !important;
-    
     &:hover {
     color: white !important;
     }
