@@ -23,8 +23,9 @@ h1,
   font-weight: 600;
 }
 
-.site-title:hover, .nav-list-link:hover  {
+.site-title:hover, .nav-list-link:hover, .nav-list .nav-list-item .nav-list-link:hover {
     background-image: none;
+    color: $primary-color;
 }
 
 .site-header {
@@ -59,10 +60,6 @@ h1,
     background: #f2faff;
     color: $primary-color;
     font-weight: normal;
-}
-
-.nav-list .nav-list-item .nav-list-link:hover {
-    background: lighten(#f2faff, 5%);
 }
 
 .nav-list .nav-list-item .nav-list-link {
