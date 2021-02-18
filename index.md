@@ -18,7 +18,7 @@ Registration fees for the Oligo 2021 online event:
 - Academics: EUR 120
 - PhD Students: EUR 60
 
-[Register now](registration){: .btn .btn-primary .fs-5 .mt-4 .mb-4 .mb-md-0 .mr-2 } [View Past Conferences](previous-workshops){: .btn .fs-5 .mt-4 .mb-4 .mb-md-0 }
+[Register now](registration){: .btn .btn-primary .fs-5 .mt-4 .mb-4 .mb-md-0 .mr-2 } [View Previous Workshops](previous-workshops){: .btn .fs-5 .mt-4 .mb-4 .mb-md-0 }
 
 ### Important Dates
 
