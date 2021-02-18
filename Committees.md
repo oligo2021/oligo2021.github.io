@@ -1,5 +1,5 @@
 ---
-title: Call for Papers
+title: Committees
 nav_order: 3
 has_toc: true
 ---
