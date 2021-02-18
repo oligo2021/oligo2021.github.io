@@ -1,6 +1,5 @@
 $primary-color: #00A2DB;
 $secondary-color: #ED6B1A;
-$body-color
 
 html {
     font-size: 100%;
@@ -66,5 +65,5 @@ h1,
 }
 
 .nav-list .nav-list-item .nav-list-link a {
-    color: $body-color;
+    color: $body-text-color;
 }
