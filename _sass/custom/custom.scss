@@ -44,9 +44,12 @@ background-image: none;
     box-shadow:none;
 }
 
-.site-button > .icon {
+.site-button {
     color: $secondary-color !important;
-    
+}
+
+.site-button > .icon {
+    color: white !important;
     &:hover {
     color: white !important;
     }
