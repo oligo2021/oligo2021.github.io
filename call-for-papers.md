@@ -1,7 +1,10 @@
 ---
 title: Call for Papers
 nav_order: 2
+has_toc: true
 ---
+
+{:toc}
 
 # Call for Papers
 {: .fs-9 }
