@@ -15,6 +15,7 @@ The Maastricht University School of Business and Economics is proud to host the 
     Table of contents
   </summary>
   {: .text-delta }
+1. TOC
 {:toc}
 </details>
 
