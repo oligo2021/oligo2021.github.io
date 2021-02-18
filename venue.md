@@ -4,7 +4,10 @@ nav_order: 6
 description: "The Maastricht University School of Business and Economics is proud to host the Oligo Workshop 2021."
 ---
 
-![Maastricht University](/img/venue.jpg)
+<picture>
+  <source srcset="/img/venue.webp" type="image/webp">
+  <img src="/img/venue.jpg" alt="Maastricht University">
+</picture>
 
 # School of Business & Economics, Maastricht University
 {: .fs-9 }
