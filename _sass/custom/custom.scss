@@ -62,3 +62,7 @@ h1,
 .nav-list .nav-list-item .nav-list-link:hover {
     background: lighten(#f2faff, 5%);
 }
+
+.nav-list. .nav-list-item .nav-list-link a {
+    color: $body-color;
+}
