@@ -46,7 +46,8 @@ h1,
 }
 
 .site-button > .icon {
-    color: white !important;
+    color: $secondary-color !important;
+    
     &:hover {
     color: white !important;
     }
