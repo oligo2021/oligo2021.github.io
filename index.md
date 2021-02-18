@@ -18,14 +18,20 @@ Registration fees for the Oligo 2021 online event:
 - Academics: EUR 120
 - PhD Students: EUR 60
 
-[Register now](#register){: .btn .btn-primary .fs-5 .mt-4 .mb-4 .mb-md-0 .mr-2 } [View Past Conferences](#past-conferences){: .btn .fs-5 .mt-4 .mb-4 .mb-md-0 }
+[Register now](registration){: .btn .btn-primary .fs-5 .mt-4 .mb-4 .mb-md-0 .mr-2 } [View Past Conferences](previous-workshops){: .btn .fs-5 .mt-4 .mb-4 .mb-md-0 }
+
+### Important Dates
+
+Submission deadline: 15-3-2021
+Register here
+Individuals interested to attend that have no way of getting registration fees reimbursed may apply for a waiver by sending an e-mail to: oligoworkshop2021@gmail.com.
+
+### Keynote
+
+To be announced.
+
+### Maastricht
+
+Maastricht is the capital of the Province of Limburg located in the southeast of the Netherlands and in the centre of the Meuse-Rhine Euregion, a stone’s throw from Liège and Aachen. Maastricht developed from a Roman settlement to a Medieval religious centre, a garrison town and an early industrial city. Today, Maastricht is well-regarded as an affluent cultural centre. Maastricht draws many tourists who come to enjoy the city’s beauty and history. The city centre is especially attractive, with historical buildings and more than 1,450 listed buildings. Visitors enjoy the relaxed, exuberant atmosphere.
 
 We look forward to welcome you all virtually in Maastricht in June 2021.
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pmarsceill/test-jtd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
