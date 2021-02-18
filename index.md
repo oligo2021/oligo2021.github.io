@@ -28,7 +28,7 @@ Individuals interested to attend that have no way of getting registration fees r
 
 ### Keynote
 
-To be announced.
+The keynote lecture will be given by [David P. Myatt](https://www.london.edu/faculty-and-research/faculty-profiles/m/myatt-dp), London Business School. 
 
 ### Maastricht
 
