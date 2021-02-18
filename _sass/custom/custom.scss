@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Commissioner&display=swap');
+
 $primary-color: #00A2DB;
 $secondary-color: #ED6B1A;
 
 html {
+    font-family: 'Commissioner', sans-serif;
     font-size: 100%;
     -webkit-text-size-adjust: 100%;
     font-variant-ligatures: none;
