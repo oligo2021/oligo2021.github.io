@@ -49,10 +49,8 @@ h1,
     }
 }
 
-.site-button > .icon {
-    &:hover {
+.site-button:hover > .icon {
     color: white !important;
-    }
 }
 
 
