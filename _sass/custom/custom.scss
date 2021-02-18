@@ -1,3 +1,6 @@
+$primary-color: #00A2DB;
+$secondary-color: #ED6B1A;
+
 html {
     font-size: 100%;
     -webkit-text-size-adjust: 100%;
@@ -28,10 +31,29 @@ background-image: none;
 }
 
 .site-button:hover {
-    background: orange;
+    background: $secondary-color;
+    color: white;
+}
+
+.site-button:hover {
+    background: $secondary-color;
     color: white;
 }
 
 .btn, .btn-primary, .btn-secondary {
     box-shadow:none;
 }
+
+.search {
+    padding: .5rem 1rem;
+}
+
+.menu-button .icon {
+    color: $secondary-color;
+    
+    &:hover {
+    color: white;
+    }
+}
+
+
