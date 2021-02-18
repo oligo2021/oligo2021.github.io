@@ -1,5 +1,6 @@
 ---
 title: Call for Papers
+description: The Call for Papers of the Oligo 2021 conference
 nav_order: 2
 has_toc: true
 ---
