@@ -8,7 +8,7 @@ has_toc: true
 # Previous Workshops
 {: .fs-9 }
 
-### 2020 Virtual
+### [2020 Virtual](https://oligo-society.org/final_program_2020.pdf)
 Virtual Keynote speaker: [Natalia Fabra](http://nfabra.uc3m.es/)
 Local Organizers: Christian Ewerhart, Sergei Izmalkov, Attila Tasnádi
 
