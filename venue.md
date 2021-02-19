@@ -1,7 +1,7 @@
 ---
 title: Venue
 nav_order: 6
-description: "The Maastricht University School of Business and Economics is proud to host the Oligo Workshop 2021."
+description: "The Maastricht University School of Business and Economics is proud to host the virtual Oligo Workshop 2021."
 ---
 
 <picture>
@@ -12,7 +12,8 @@ description: "The Maastricht University School of Business and Economics is prou
 # School of Business & Economics, Maastricht University
 {: .fs-9 }
 
-The conference will take place in the School of Business & Economics on the Maastricht University campus.
+The **virtual** workshop will be locally organized by the School of Business & Economics.
+
 Founded in 1984, SBE is currently the largest faculty of Maastricht University in student numbers. 
 
 Housed in a former Jesuit monastery, the school currently provides education to around 4,200 students, of which 60% are international. 
