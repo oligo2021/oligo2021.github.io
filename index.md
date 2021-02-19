@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "The Maastricht University School of Business and Economics is proud to host the Oligo Workshop 2021."
+description: "The Maastricht University School of Business and Economics is proud to host the Oligo Workshop 2021, June 4 and 5, 2021."
 permalink: /
 ---
 
