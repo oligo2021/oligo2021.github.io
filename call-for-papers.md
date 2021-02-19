@@ -46,7 +46,7 @@ The workshop has a tradition for exclusively plenary sessions with each presenta
 
 ### Submission
 
-Interested researchers and Ph.D. students are cordially invited to submit papers to be considered for the programme. Papers should be submitted electronically to [oligoworkshop2021@gmail.com](mailto:) by February 15, 2021. Authors of accepted papers will be notified by mid February.
+Interested researchers and Ph.D. students are cordially invited to submit papers to be considered for the programme. Papers should be submitted electronically **to [oligoworkshop2021@gmail.com](mailto:oligoworkshop2021@gmail.com)** by **March 15, 2021**. Authors of accepted papers can expect to be notified by end-of-March.
 
 ### PDF Download
 
