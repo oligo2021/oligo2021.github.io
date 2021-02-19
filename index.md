@@ -14,14 +14,14 @@ permalink: /
 # Welcome to Oligo 2021 Online
 {: .fs-9 }
 
-Dear all, due to the Corona crisis we are currently facing, Oligo 2021 will be held online. More details will be provided as soon as possible. All can [register](/register) via this website:
+Dear all, due to the Corona crisis we are currently facing, Oligo 2021 will be held online **June 4 and 5, 2021**. More details will be provided as soon as possible. All can [register](/registration) via this website:
 {: .fs-6 .fw-300 }
 
 Registration fees for the Oligo 2021 online event:
 - Professors: EUR 140
 - Students: EUR 50
 
-[Registration Page](registration){: .btn .btn-primary .fs-5 .mt-4 .mb-4 .mb-md-0 .mr-2 } [Previous Workshops](previous-workshops){: .btn .btn-secondary .fs-5 .mt-4 .mb-4 .mb-md-0 }
+[Submission Deadline (15-3-2021)](call-for-papers){: .btn .btn-primary .fs-5 .mt-4 .mb-4 .mb-md-0 .mr-2 } [Previous Workshops](previous-workshops){: .btn .btn-secondary .fs-5 .mt-4 .mb-4 .mb-md-0 }
 
 ### Important Dates
 
