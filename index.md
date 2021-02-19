@@ -14,7 +14,7 @@ permalink: /
 # Welcome to Oligo 2021 Online
 {: .fs-9 }
 
-Dear all, due to the Corona crisis we are currently facing, Oligo 2021 will be held online **June 4 and 5, 2021**. More details will be provided as soon as possible. All can [register](/registration) via this website:
+Dear all, due to the Corona crisis we are currently facing, Oligo 2021 will be held online **June 4 and 5, 2021**. More details will be provided as soon as possible. Everyone can [register](/registration) until **April 14, 2021* via this website:
 {: .fs-6 .fw-300 }
 
 Registration fees for the Oligo 2021 online event:
