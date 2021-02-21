@@ -9,8 +9,8 @@ has_toc: true
 {: .fs-9 }
 
 ### [2020 Online](https://oligo-society.org/final_program_2020.pdf)
-Virtual Keynote speaker: [Natalia Fabra](http://nfabra.uc3m.es/)
-Local Organizers: Christian Ewerhart, Sergei Izmalkov, Attila Tasnádi
+Keynote speaker: [Natalia Fabra](http://nfabra.uc3m.es/)
+Local organizers: Christian Ewerhart, Sergei Izmalkov, Attila Tasnádi
 
 ### [2019 Nottingham](https://sites.google.com/site/oligoworkshop2019/home)
 Keynote speaker: [Mark Armstrong](https://www.asc.ox.ac.uk/person/2144)
