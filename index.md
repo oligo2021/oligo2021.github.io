@@ -26,8 +26,7 @@ Registration fees for the Oligo 2021 online event:
 ### Important Dates
 
 Submission deadline: 15-3-2021
-Register here
-Individuals interested to attend that have no way of getting registration fees reimbursed may apply for a waiver by sending an e-mail to: oligoworkshop2021@gmail.com.
+Individuals interested to attend that have no way of getting registration fees reimbursed may apply for a waiver by sending an e-mail to: [oligoworkshop2021@gmail.com](mailto:oligoworkshop2021@gmail.com?subject=Waiver for Oligo 2021).
 
 ### Keynote
 
