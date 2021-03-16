@@ -21,7 +21,7 @@ Registration fees for the Oligo 2021 online event:
 - Professors: EUR 140
 - Students: EUR 50
 
-[Submission Deadline (15-3-2021)](call-for-papers){: .btn .btn-primary .fs-5 .mt-4 .mb-4 .mb-md-0 .mr-2 } [Previous Workshops](previous-workshops){: .btn .btn-secondary .fs-5 .mt-4 .mb-4 .mb-md-0 }
+[Submission Deadline (31-3-2021)](call-for-papers){: .btn .btn-primary .fs-5 .mt-4 .mb-4 .mb-md-0 .mr-2 } [Previous Workshops](previous-workshops){: .btn .btn-secondary .fs-5 .mt-4 .mb-4 .mb-md-0 }
 
 ### Important Dates
 
